@@ -4,29 +4,33 @@ title:
 theme: PaperMod
 
 params: 
+  disableThemeToggle: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
 
   homeInfoParams:
-    Title: "Hello Stranger"
+    Title: ""
     Content: >
-      I'm Abylay Mukhit and I like to play and create small indie games.
+      Hi, I'm Abylay Mukhit.
+      
+      - I like to play and create small indie games.
 
-      - Now I work with small team of friends to make games for mobile and PC.
-
-      - On this page I will write about the development process of past games like [STYX](https://apps.apple.com/kz/app/styx-vertical-platformer/id1587424131) and [HPB](https://apps.apple.com/kz/app/hyper-pixel-beast/id1503065407),
-      and also about future projects.
+      - On this page you will find more about the development process of past games 
+      like [STYX](https://apps.apple.com/kz/app/styx-vertical-platformer/id1587424131) and 
+      [HPB](https://apps.apple.com/kz/app/hyper-pixel-beast/id1503065407),
+      and also about future projects. Now I work with small team of friends to make games for mobile and PC.
+      You can support our team by buying our games, watching our channel, and following us on social media. 
       
       - Hope to see you around! 
       
 
       
   socialIcons:
-    - name: github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
-    - name: KoFi
-      url: "https://ko-fi.com/adityatelange"
-    - name: RsS
-      url: "index.xml"
+    - name: twitter
+      url: "https://twitter.com/abylaymukhit/"
+    - name: reddit
+      url: "https://www.reddit.com/user/abylaymukhit/"
+    - name: kofi
+      url: "https://www.ko-fi.com"

@@ -8,6 +8,6 @@ Hello and welcome to our brand new website! There will be a lot more information
 
 We're an independent game studio, based in Astana, Kazakhstan!
 
-Check out our social pages too – we’ll be hanging out and discussing the games there.
+Check out our social media too – we’ll be hanging out and discussing the games there.
 
  -Abylay.

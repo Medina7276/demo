@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: designinggamesblog
+title: 
 theme: PaperMod
 
 params: 
@@ -10,14 +10,19 @@ params:
   ShowCodeCopyButtons: true
 
   homeInfoParams:
-    Title: "company name"
+    Title: "Hello Stranger"
     Content: >
-      Welcome to demo of hugo's theme PaperMod.
-      - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-      - Do give a 🌟 on Github !
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+      I'm Abylay Mukhit and I like to play and create small indie games.
 
+      - Now I work with small team of friends to make games for mobile and PC.
 
+      - On this page I will write about the development process of past games like [STYX](https://apps.apple.com/kz/app/styx-vertical-platformer/id1587424131) and [HPB](https://apps.apple.com/kz/app/hyper-pixel-beast/id1503065407),
+      and also about future projects.
+      
+      - Hope to see you around! 
+      
+
+      
   socialIcons:
     - name: github
       url: "https://github.com/adityatelange/hugo-PaperMod"

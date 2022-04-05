@@ -5,9 +5,10 @@ draft: false
 ---
 
 Hello and welcome to our brand new website! There will be a lot more information coming soon through this site. 
-
 We're an independent game studio, based in Astana, Kazakhstan!
--Abylay.
+Hope to see you around! 
+
+ -Abylay.
 
 You can support our team by sharing the post on your social media by clicking below :)
 

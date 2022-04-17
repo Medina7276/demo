@@ -1,10 +1,10 @@
 ---
-title: "Sound designer job"
+title: "We're hiring! Sound designer"
 date: 2022-04-09
 
 ---
 
-### Sound designer
+
 
 Do you want to help us to create music and sounds for upcoming game project? 
 If so, send your resume over our way and we might have a job for you.

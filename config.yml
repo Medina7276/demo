@@ -1,6 +1,6 @@
 baseURL: https://www.oyynkuru.com/
 languageCode: en-us
-title: OYNA
+title: 
 theme: PaperMod
 
 menu:
@@ -20,7 +20,7 @@ params:
   homeInfoParams:
     Title: ""
     Content: >
-      OYNA is a game indie studio. 
+      Oyynkuru is a game indie studio. 
 
       - On this blog you will find more about the development process of past games 
       like [STYX](https://apps.apple.com/kz/app/styx-vertical-platformer/id1587424131) and 
@@ -32,8 +32,8 @@ params:
       - Check out our social media below – we’ll be hanging out and discussing the games there. 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/abylay_mukhit/"
+      url: "https://twitter.com/oyynkuru/"
     - name: reddit
-      url: "https://www.reddit.com/user/abylaymukhit/"
+      url: "https://www.reddit.com/user/oyynkuru"
     - name: kofi
-      url: "https://ko-fi.com/abylaymukhit"
+      url: "https://ko-fi.com/oyynkuru"

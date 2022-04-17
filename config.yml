@@ -1,7 +1,14 @@
-baseURL: https://abylaymukhit.netlify.app/
+baseURL: https://www.oyynkuru.com/
 languageCode: en-us
-title: 
+title: OYNA
 theme: PaperMod
+
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
 
 params: 
   disableThemeToggle: true
@@ -13,22 +20,16 @@ params:
   homeInfoParams:
     Title: ""
     Content: >
-      Hi, I'm Abylay Mukhit.
-      
-      - I like to play and create small indie games.
+      OYNA is a game indie studio. 
 
-      - On this page you will find more about the development process of past games 
+      - On this blog you will find more about the development process of past games 
       like [STYX](https://apps.apple.com/kz/app/styx-vertical-platformer/id1587424131) and 
       [HPB](https://apps.apple.com/kz/app/hyper-pixel-beast/id1503065407),
       and also about future projects. 
       
-      - Now I work with small team of friends to make games for mobile and PC.
-      
       - You can support our team by buying our games, watching our channel, and just following us. 
       
-      - Check out our social media below – we’ll be hanging out and discussing the games there.
-      
-      
+      - Check out our social media below – we’ll be hanging out and discussing the games there. 
   socialIcons:
     - name: twitter
       url: "https://twitter.com/abylay_mukhit/"

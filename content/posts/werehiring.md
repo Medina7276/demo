@@ -4,8 +4,6 @@ date: 2022-04-09
 
 ---
 
-
-
 Do you want to help us to create music and sounds for upcoming game project? 
 If so, send your resume over our way and we might have a job for you.
 
@@ -16,4 +14,4 @@ We don’t really care about experience in games. You just need to be able to ad
 You can be anywhere in the world so long as you have a good internet connection and can make yourself available at regular times to discuss your tasks and review your work.
 
 **How to Apply**
-If you want to apply, please send your resume and a link to your portfolio to medina7276@icloud.com
+If you want to apply, please send your resume and a link to your portfolio to medina.doshanova96@gmail.com

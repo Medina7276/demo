@@ -14,4 +14,4 @@ We don’t really care about experience in games. You just need to be able to ad
 You can be anywhere in the world so long as you have a good internet connection and can make yourself available at regular times to discuss your tasks and review your work.
 
 **How to Apply**
-If you want to apply, please send your resume and a link to your portfolio to medina.doshanova96@gmail.com
+If you want to apply, please send your resume and a link to your portfolio to medina@oyynkuru.com
